@@ -8,7 +8,6 @@ Features
 3-Real-time calculation updates
 4-Responsive design for different screen sizes
 
-App image - ![img.png](img.png)
 
 
 1-Technologies Used
